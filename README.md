@@ -10,7 +10,7 @@ You are provided with historical sales data on a daily basis. You need to foreca
 
 ### Notebook
 
-The `notebooks/model_training.ipynb` notebook contains the following steps:
+The [`notebooks/Experiment.ipynb`](./notebooks/Experiment.ipynb) notebook contains the following steps:
 
 1. **Data Loading and Preprocessing**: Load and preprocess the historical sales data.
 2. **Feature Engineering**: Create lag features to capture the trends and patterns in the data.
@@ -18,7 +18,7 @@ The `notebooks/model_training.ipynb` notebook contains the following steps:
 4. **Evaluation**: Evaluate the model using RMSE (Root Mean Squared Error) on a validation set.
 5. **Saving the Model**: Save the trained model and processed data for deployment.
 
-Open `model_training.ipynb` and run all cells to generate the trained model and save the necessary files in the `models/` and `data/` directories.
+Open [`Experiment.ipynb`](./notebooks/Experiment.ipynb) and run all cells to generate the trained model and save the necessary files in the `models/` and `data/` directories.
 
 ## Task 2: Model Deployment
 
