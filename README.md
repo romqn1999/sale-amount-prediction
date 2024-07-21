@@ -1,6 +1,6 @@
 # Monthly Sales Forecasting
 
-This repository contains a solution for forecasting the monthly sales of products in different shops using historical sales data. The project is divided into two main tasks: model training and deployment.
+[This repository](https://github.com/romqn1999/sale-amount-prediction) contains a solution for forecasting the monthly sales of products in different shops using historical sales data. The project is divided into two main tasks: model training and deployment.
 
 ## Task 1: Model Training
 
